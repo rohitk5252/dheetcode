@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Title 1",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa natus nisi praesentium cumque sapiente sit, expedita consequatur quaerat ab ipsum.",
+      "author": "A1",
+      "id": 1
+    },
+    {
+      "title": "Title 2",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa natus nisi praesentium cumque sapiente sit, expedita consequatur quaerat ab ipsum.",
+      "author": "A2",
+      "id": 2
+    },
+    {
+      "title": "Title 3",
+      "body": "hyfy oo....Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa natus nisi praesentium cumque sapiente sit, expedita consequatur quaerat ab ipsum.",
+      "author": "A2",
+      "id": 3
+    }
+  ]
+}
